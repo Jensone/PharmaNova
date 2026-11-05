@@ -1,0 +1,9 @@
+matrix_id,department,role_title,required_modules,retraining_frequency,target_compliance_rate,responsible_trainer,evaluation_method
+MAT-001,Assurance Qualité,Ingénieur Assurance Qualité / Auditeur,"MOD-TRN-001, MOD-TRN-002, MOD-TRN-004, MOD-TRN-005, MOD-TRN-008",Annuelle,100%,Mme Nathalie Benhamou,QCM en ligne (seuil 85%) + audit pratique
+MAT-002,Contrôle Qualité,Technicien / Analyste QC,"MOD-TRN-001, MOD-TRN-002, MOD-TRN-004, MOD-TRN-005",Annuelle,100%,Dr. Philippe Gauthier,QCM théorique + qualification double aveugle
+MAT-003,Production & Salles Blanches,Opérateur de Fabrication / Miragiste,"MOD-TRN-001, MOD-TRN-002, MOD-TRN-004, MOD-TRN-006",Annuelle,100%,M. Pierre-Yves Bernard,Habilitation d'habillage ZAC Grade A/B + test pratique
+MAT-004,Supply Chain & Logistique,Gestionnaire Magasin / Transport GDP,"MOD-TRN-002, MOD-TRN-003, MOD-TRN-004, MOD-TRN-008",Annuelle,98%,M. Laurent Garnier,QCM en ligne + validation procédures transport froid
+MAT-005,Pharmacovigilance,Spécialiste ICSR / Évaluateur Safety,"MOD-TRN-002, MOD-TRN-004, MOD-TRN-007",Annuelle,100%,Dr. Marc-Antoine Leroy,Cas test de saisie E2B + QCM GVP
+MAT-006,Affaires Réglementaires,Chargé d'Affaires Réglementaires,"MOD-TRN-001, MOD-TRN-002, MOD-TRN-004, MOD-TRN-007",Annuelle,100%,Mme Christine Baudry,QCM eCTD + cas pratique de variation
+MAT-007,Affaires Médicales (MSL),Medical Science Liaison (MSL),"MOD-TRN-002, MOD-TRN-004, MOD-TRN-007",Annuelle,100%,Dr. Éléonore Vance,Certification annuelle de connaissances scientifiques
+MAT-008,Direction Générale & Fonctions Support,Tous Collaborateurs PharmaNova,MOD-TRN-002,Annuelle obligatoire,100%,Dr. Marc-Antoine Leroy,Attestation individuelle de formation PV

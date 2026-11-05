@@ -1,0 +1,41 @@
+submission_id,submission_type,product_name,category_code,title,agency,submission_date,status,lead_manager
+VAR-2024-001,Variation Type IA,Cardiolux,B.II.b.1.a,Remplacement mineur d'un équipement de granulation humide sans modification de procédé,EMA,2024-01-12,Approuvé,M. Julien Tavernier
+VAR-2024-002,Variation Type IA,Glucorite,A.1,Changement d'adresse administrative de la filiale PharmaNova GmbH sans transfert physique,EMA,2024-01-25,Approuvé,M. Julien Tavernier
+VAR-2024-003,Variation Type IAIN,Immunolin,C.I.3.a,Mise à jour immédiate du Pharmacovigilance System Master File (PSMF),EMA,2024-02-05,Approuvé,M. Julien Tavernier
+VAR-2024-004,Variation Type IA,Respispray,B.II.e.2.a,Changement de fournisseur secondaire pour le dessiccant intégré au capuchon inhalateur,EMA,2024-02-18,Approuvé,M. Julien Tavernier
+VAR-2024-005,Variation Type IA,Vascopril,B.II.b.2.a,Ajout d'un site secondaire de contrôle analytique physico-chimique de routine,ANSM,2024-03-01,Approuvé,Mme Sophie Bernard
+VAR-2024-006,Variation Type IA,Neurotix,B.I.b.1.b,Resserrement des spécifications de libération pour les impuretés de synthèse du principe actif,EMA,2024-03-15,Approuvé,M. Julien Tavernier
+VAR-2024-007,Variation Type IA,Oncovance,A.5.b,Changement de raison sociale du fabricant de gélules vides en gélatine dure,EMA,2024-03-28,Approuvé,M. Julien Tavernier
+VAR-2024-008,Variation Type IAIN,Coranid,C.I.8.a,Harmonisation des mentions légales de conditionnement secondaire selon le Blue Box Requirement,ANSM,2024-04-10,Approuvé,Mme Sophie Bernard
+VAR-2024-009,Variation Type IB,Glucorite,B.I.d.1.a,Extension de durée de validité du principe actif Dagliflozine de 24 à 36 mois,EMA,2024-04-20,Approuvé,M. Julien Tavernier
+VAR-2024-010,Variation Type IB,Cardiolux,B.II.d.2.a,Introduction d'une méthode analytique HPLC alternative pour le dosage des conservateurs,EMA,2024-05-02,Approuvé,M. Julien Tavernier
+VAR-2024-011,Variation Type IB,Insulip,B.II.e.5.a,Augmentation de la taille de lot de conditionnement primaire des stylos injecteurs (x2),EMA,2024-05-18,Approuvé,M. Julien Tavernier
+VAR-2024-012,Variation Type IB,Colitane,B.II.c.1.c,Modification mineure de la composition de l'enveloppe de gélule (substitution de colorant),EMA,2024-06-05,Approuvé,M. Julien Tavernier
+VAR-2024-013,Variation Type IB,Linfabloc,B.II.f.1.b,Prolongation de la durée de conservation du produit fini de 24 mois à 36 mois,EMA,2024-06-22,Approuvé,M. Julien Tavernier
+VAR-2024-014,Variation Type IB,Bronchoclar,C.I.2.a,Adaptation du RCP et de la notice suite aux recommandations du PRAC sur la tolérance psychiatrique,ANSM,2024-07-08,Approuvé,Mme Sophie Bernard
+VAR-2024-015,Variation Type IB,Tremopan,B.II.b.3.a,Augmentation de la taille de lot de fabrication des gélules LP de 100 kg à 300 kg,EMA,2024-07-25,Approuvé,M. Julien Tavernier
+VAR-2024-016,Variation Type II,Cardiolux,C.I.6.a,Extension d'indication chez l'adolescent de plus de 14 ans souffrant d'hypercholestérolémie familiale,EMA,2024-08-10,En évaluation,M. Julien Tavernier
+VAR-2024-017,Variation Type II,Immunolin,B.I.a.1.c,Modification majeure du procédé de bioproduction (optimisation du milieu de culture et bioréacteur 2000L),EMA,2024-08-28,En évaluation,M. Julien Tavernier
+VAR-2024-018,Variation Type II,Oncovance,C.I.4,Mise à jour majeure du profil de sécurité suite au signal de toxicité pulmonaire et allongement QT,EMA,2024-09-14,En évaluation,M. Julien Tavernier
+VAR-2024-019,Variation Type II,Cognifère,B.II.a.3.b,Introduction d'un nouveau dosage renforcé en comprimé orodispersible (20 mg / 20 mg),BfArM,2024-09-30,En évaluation,Mme Sophie Bernard
+VAR-2024-020,Variation Type II,Respispray,C.I.6.b,Nouvelle indication dans l'asthme léger à modéré en traitement d'entretien continu,EMA,2024-10-15,En évaluation,M. Julien Tavernier
+SUB-PLN-001,Plan de Soumission eCTD,Cardiolux,PLAN-ECTD,Plan de Soumission eCTD - Extension Pédiatrique PIP,EMA,2024-11-15,Actif,M. Julien Tavernier
+SUB-PLN-002,Plan de Soumission eCTD,Immunolin,PLAN-ECTD,Plan de Soumission eCTD - Changement de Bioréacteur Marburg,EMA,2024-12-01,Actif,M. David Leroy
+SUB-PLN-003,Plan de Soumission eCTD,Oncovance,PLAN-ECTD,Plan de Soumission eCTD - Mise à jour Carte d'Alerte & SmPC,EMA,2024-12-15,Actif,M. Julien Tavernier
+SUB-PLN-004,Plan de Soumission eCTD,Cognifère,PLAN-ECTD,Plan de Soumission DCP - Renouvellement Quinquennal DE/H/2104,BfArM / ANSM,2025-01-10,Actif,Mme Sophie Bernard
+SUB-PLN-005,Plan de Soumission eCTD,Tremopan,PLAN-ECTD,Plan de Soumission eCTD - Renouvellement Quinquennal EU/1/20/1445,EMA,2025-02-01,Actif,M. Julien Tavernier
+SUB-PLN-006,Plan de Soumission eCTD,Insulip,PLAN-ECTD,Plan de Soumission eCTD - Nouvelle Indication Obésité Adolescents,EMA,2025-03-15,Actif,M. David Leroy
+SUB-PLN-007,Plan de Soumission eCTD,Respispray,PLAN-ECTD,Plan de Soumission eCTD - Renouvellement Quinquennal EU/1/20/1478,EMA,2025-04-01,Actif,M. Julien Tavernier
+SUB-PLN-008,Plan de Soumission eCTD,Linfabloc,PLAN-ECTD,Plan de Soumission eCTD - Renouvellement Quinquennal EU/1/21/1532,EMA,2025-05-10,Actif,M. David Leroy
+SUB-PLN-009,Plan de Soumission eCTD,Coranid,PLAN-ECTD,Plan de Soumission MRP - Clôture Procédure de Renouvellement NL/H/1820,MEB (NL) / ANSM,2025-06-01,Actif,Mme Sophie Bernard
+SUB-PLN-010,Plan de Soumission eCTD,Colitane,PLAN-ECTD,Plan de Soumission eCTD - Extension Indication Maladie de Crohn,EMA,2025-07-15,Actif,Mme Sophie Bernard
+REN-REP-001,Renouvellement Quinquennal,Cardiolux,RENEWAL-5Y,Renouvellement 2016-2021,EMA / ANSM,2024-03-01,Renouvellement Illimité Accordé,M. Julien Tavernier
+REN-REP-002,Renouvellement Quinquennal,Neurotix,RENEWAL-5Y,Renouvellement 2018-2023,EMA / ANSM,2024-03-01,Renouvellement Illimité Accordé,M. David Leroy
+REN-REP-003,Renouvellement Quinquennal,Vascopril,RENEWAL-5Y,Renouvellement 2018-2023,EMA / ANSM,2024-03-01,Renouvellement Illimité Accordé,Mme Sophie Bernard
+REN-REP-004,Renouvellement Quinquennal,Glucorite,RENEWAL-5Y,Renouvellement 2019-2024,EMA / ANSM,2024-03-01,Renouvellement Illimité Accordé,M. Julien Tavernier
+REN-REP-005,Renouvellement Quinquennal,Immunolin,RENEWAL-5Y,Renouvellement 2019-2024,EMA / ANSM,2024-03-01,Renouvellement Illimité Accordé,M. Julien Tavernier
+REN-REP-006,Renouvellement Quinquennal,Coranid,RENEWAL-5Y,Renouvellement 2019-2024,EMA / ANSM,2024-03-01,Procédure Clôturée Favorablement,Mme Sophie Bernard
+REN-REP-007,Renouvellement Quinquennal,Oncovance,RENEWAL-5Y,Renouvellement 2017-2022,EMA / ANSM,2024-03-01,Renouvellement Illimité Accordé,M. Julien Tavernier
+REN-REP-008,Renouvellement Quinquennal,Cognifère,RENEWAL-5Y,Renouvellement 2020-2025,EMA / ANSM,2024-03-01,Dossier Déposé - En instruction,Mme Sophie Bernard
+REN-REP-009,Renouvellement Quinquennal,Tremopan,RENEWAL-5Y,Renouvellement 2020-2025,EMA / ANSM,2024-03-01,Dossier Déposé - En instruction,M. Julien Tavernier
+REN-REP-010,Renouvellement Quinquennal,Respispray,RENEWAL-5Y,Renouvellement 2020-2025,EMA / ANSM,2024-03-01,Dossier Finalisé pour Soumission,M. Julien Tavernier

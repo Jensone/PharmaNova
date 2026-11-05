@@ -1,0 +1,121 @@
+emp_id,name,title,dept,email,phone,location,manager_id
+EMP-001,Dr. Jean-Marc Delacroix,Président du Directoire (CEO),Direction Générale,jm.delacroix@pharmanova.eu,+33 4 78 50 10 01,Lyon HQ,
+EMP-002,Dr. Éléonore Vance,Directrice Médicale Globale & VP Affaires Médicales (CMO),Affaires Médicales,e.vance@pharmanova.eu,+33 4 78 50 10 02,Lyon HQ,EMP-001
+EMP-003,Mme Christine Baudry,Directrice Globale des Affaires Réglementaires (VP RA),Affaires Réglementaires,c.baudry@pharmanova.eu,+33 4 78 50 10 03,Lyon HQ,EMP-001
+EMP-004,M. François Mercier,Directeur Qualité Groupe & Pharmacien Responsable (VP QA / QP),Assurance Qualité,f.mercier@pharmanova.eu,+33 4 78 50 10 04,Lyon HQ,EMP-001
+EMP-005,Dr. Marc-Antoine Leroy,Directeur Global de la Pharmacovigilance & EU QPPV,Pharmacovigilance,ma.leroy@pharmanova.eu,+33 4 78 50 10 05,Lyon HQ,EMP-002
+EMP-006,Mme Valérie Roche,Pharmacien Délégué Libération des Lots (QP Delegated),Assurance Qualité,v.roche@pharmanova.eu,+33 4 78 50 10 06,Site Chalon,EMP-004
+EMP-007,Dr. Philippe Gauthier,Directeur du Contrôle Qualité & Laboratoires Analytiques,Contrôle Qualité,p.gauthier@pharmanova.eu,+33 4 78 50 10 07,Site Chalon,EMP-004
+EMP-008,Mme Nathalie Benhamou,Responsable Assurance Qualité Opérationnelle & Système CAPA,Assurance Qualité,n.benhamou@pharmanova.eu,+33 4 78 50 10 08,Site Chalon,EMP-004
+EMP-009,M. Thomas Vasseur,Responsable des Audits Internes & Qualification Fournisseurs GxP,Assurance Qualité,t.vasseur@pharmanova.eu,+33 4 78 50 10 09,Lyon HQ,EMP-004
+EMP-010,Dr. Claire Dupuis,Responsable de l'Information Médicale & Transparence,Affaires Médicales,c.dupuis@pharmanova.eu,+33 4 78 50 10 10,Lyon HQ,EMP-002
+EMP-011,M. Laurent Garnier,Directeur de la Supply Chain Globale & Distribution GDP,Supply Chain,l.garnier@pharmanova.eu,+33 4 78 50 10 11,St-Quentin-Fallavier,EMP-001
+EMP-012,Dr. Sarah Lindner,Deputy EU QPPV & Directrice PV Région DACH,Pharmacovigilance,s.lindner@pharmanova.de,+49 69 95 40 20,Francfort,EMP-005
+EMP-013,Dr. Sophie Maréchal,Directrice Médicale Domaine Cardiovasculaire & Métabolisme,Affaires Médicales,s.marechal@pharmanova.eu,+33 4 78 50 10 13,Lyon HQ,EMP-002
+EMP-014,Dr. Antoine Bertrand,Directeur Médical Domaine Oncologie & Hématologie,Affaires Médicales,a.bertrand@pharmanova.eu,+33 4 78 50 10 14,Lyon HQ,EMP-002
+EMP-015,Dr. Hélène Fournier,Directrice Médicale Neurologie & Respiratoire,Affaires Médicales,h.fournier@pharmanova.eu,+33 4 78 50 10 15,Lyon HQ,EMP-002
+EMP-016,M. Julien Tavernier,Manager Affaires Réglementaires Europe (Procédures Centralisées),Affaires Réglementaires,j.tavernier@pharmanova.eu,+33 4 78 50 10 16,Lyon HQ,EMP-003
+EMP-017,Mme Sophie Bernard,Manager Affaires Réglementaires France & MRP/DCP,Affaires Réglementaires,s.bernard@pharmanova.eu,+33 4 78 50 10 17,Lyon HQ,EMP-003
+EMP-018,Dr. Karim Belkacem,Médecin Évaluateur Pharmacovigilance & Gestion des Signaux,Pharmacovigilance,k.belkacem@pharmanova.eu,+33 4 78 50 10 18,Lyon HQ,EMP-005
+EMP-019,Mme Camille Roussel,Pharmacien Spécialiste ICSR & Déclarations EudraVigilance,Pharmacovigilance,c.roussel@pharmanova.eu,+33 4 78 50 10 19,Lyon HQ,EMP-005
+EMP-020,M. David Leroy,Responsable Conformité eCTD & Variations Réglementaires,Affaires Réglementaires,d.leroy@pharmanova.eu,+33 4 78 50 10 20,Lyon HQ,EMP-003
+EMP-021,Anne Perrin,Ingénieur QA Validation,Assurance Qualité,a.perrin@pharmanova.eu,+33 4 78 50 1021,Site Chalon,EMP-008
+EMP-022,Éric Dubois,Spécialiste CAPA,Assurance Qualité,é.dubois@pharmanova.eu,+33 4 78 50 1022,Site Chalon,EMP-008
+EMP-023,Ludovic Guerin,Auditeur Qualité Interne,Assurance Qualité,l.guerin@pharmanova.eu,+33 4 78 50 1023,Site Chalon,EMP-008
+EMP-024,Sandrine Morin,Technicien Revue de Dossier de Lot,Assurance Qualité,s.morin@pharmanova.eu,+33 4 78 50 1024,Site Chalon,EMP-008
+EMP-025,Sylvie Gerard,Technicien HPLC/GC,Contrôle Qualité,s.gerard@pharmanova.eu,+33 4 78 50 1025,Site Chalon,EMP-007
+EMP-026,Cédric Chevalier,Microbiologiste QC,Contrôle Qualité,c.chevalier@pharmanova.eu,+33 4 78 50 1026,Site Chalon,EMP-007
+EMP-027,Jérôme Roussel,Analyste Stabilité,Contrôle Qualité,j.roussel@pharmanova.eu,+33 4 78 50 1027,Site Chalon,EMP-007
+EMP-028,Quentin Lambert,Responsable Salle Blanche,Contrôle Qualité,q.lambert@pharmanova.eu,+33 4 78 50 1028,Site Chalon,EMP-007
+EMP-029,Zoé Gauthier,Superviseur Ligne Conditionnement,Production,z.gauthier@pharmanova.eu,+33 4 78 50 1029,Site Chalon,EMP-006
+EMP-030,Alexandre Moreau,Opérateur Granulation,Production,a.moreau@pharmanova.eu,+33 4 78 50 1030,Site Chalon,EMP-006
+EMP-031,Hélène Vincent,Pilote Compression,Production,h.vincent@pharmanova.eu,+33 4 78 50 1031,Site Chalon,EMP-006
+EMP-032,Olivier Robin,Chef d'Équipe Pelliculage,Production,o.robin@pharmanova.eu,+33 4 78 50 1032,Site Chalon,EMP-006
+EMP-033,Xavier Roux,Bioprocédé Fermentation,Bioproduction,x.roux@pharmanova.eu,+33 4 78 50 1033,Site Marburg,EMP-004
+EMP-034,Christophe Boyer,Ingénieur Purification Downstream,Bioproduction,c.boyer@pharmanova.eu,+33 4 78 50 1034,Site Marburg,EMP-004
+EMP-035,Florence Nicolas,Technicien Remplissage Aseptique,Bioproduction,f.nicolas@pharmanova.eu,+33 4 78 50 1035,Site Marburg,EMP-004
+EMP-036,Mathieu Bonnet,Spécialiste Formulation Biologique,Bioproduction,m.bonnet@pharmanova.eu,+33 4 78 50 1036,Site Marburg,EMP-004
+EMP-037,Thierry Francois,Coordinateur Chaîne du Froid,Supply Chain & GDP,t.francois@pharmanova.eu,+33 4 78 50 1037,St-Quentin-Fallavier,EMP-011
+EMP-038,Benoît Mathieu,Gestionnaire Entrepôt GDP,Supply Chain & GDP,b.mathieu@pharmanova.eu,+33 4 78 50 1038,St-Quentin-Fallavier,EMP-011
+EMP-039,Delphine Fontaine,Responsable Transport Qualifié,Supply Chain & GDP,d.fontaine@pharmanova.eu,+33 4 78 50 1039,St-Quentin-Fallavier,EMP-011
+EMP-040,Karine Garcia,Planificateur Logistique,Supply Chain & GDP,k.garcia@pharmanova.eu,+33 4 78 50 1040,St-Quentin-Fallavier,EMP-011
+EMP-041,Régis Lefebvre,Gestionnaire de Données ICSR,Pharmacovigilance,r.lefebvre@pharmanova.eu,+33 4 78 50 1041,Lyon HQ,EMP-005
+EMP-042,Marc Muller,Pharmacien Évaluateur Tolérance,Pharmacovigilance,m.muller@pharmanova.eu,+33 4 78 50 1042,Lyon HQ,EMP-005
+EMP-043,Béatrice Clement,Coordinateur PSUR/PBRER,Pharmacovigilance,b.clement@pharmanova.eu,+33 4 78 50 1043,Lyon HQ,EMP-005
+EMP-044,Isabelle Fournier,Spécialiste Base Safety,Pharmacovigilance,i.fournier@pharmanova.eu,+33 4 78 50 1044,Lyon HQ,EMP-005
+EMP-045,Patricia Garnier,Chargé d'Enregistrement,Affaires Réglementaires,p.garnier@pharmanova.eu,+33 4 78 50 1045,Lyon HQ,EMP-003
+EMP-046,Yves Henry,Spécialiste Étiquetage & Notices,Affaires Réglementaires,y.henry@pharmanova.eu,+33 4 78 50 1046,Lyon HQ,EMP-003
+EMP-047,Julie Dupont,Coordinateur Renouvellements,Affaires Réglementaires,j.dupont@pharmanova.eu,+33 4 78 50 1047,Lyon HQ,EMP-003
+EMP-048,Guillaume Legrand,Gestionnaire eCTD,Affaires Réglementaires,g.legrand@pharmanova.eu,+33 4 78 50 1048,Lyon HQ,EMP-003
+EMP-049,Nathalie Gautier,Pharmacien Info Médicale,Information Médicale,n.gautier@pharmanova.eu,+33 4 78 50 1049,Lyon HQ,EMP-010
+EMP-050,Virginie Rousseau,Rédacteur Médical Scientifique,Information Médicale,v.rousseau@pharmanova.eu,+33 4 78 50 1050,Lyon HQ,EMP-010
+EMP-051,Anne Perrin,Gestionnaire FAQ Médicales,Information Médicale,a.perrin@pharmanova.eu,+33 4 78 50 1051,Lyon HQ,EMP-010
+EMP-052,Éric Dubois,Attaché de Documentation Clinique,Information Médicale,é.dubois@pharmanova.eu,+33 4 78 50 1052,Lyon HQ,EMP-010
+EMP-053,Ludovic Guerin,MSL Cardiologie,Affaires Médicales (MSL),l.guerin@pharmanova.eu,+33 4 78 50 1053,Territoire National,EMP-013
+EMP-054,Sandrine Morin,MSL Oncologie,Affaires Médicales (MSL),s.morin@pharmanova.eu,+33 4 78 50 1054,Territoire National,EMP-013
+EMP-055,Sylvie Gerard,MSL Neurologie,Affaires Médicales (MSL),s.gerard@pharmanova.eu,+33 4 78 50 1055,Territoire National,EMP-013
+EMP-056,Cédric Chevalier,MSL Immunologie,Affaires Médicales (MSL),c.chevalier@pharmanova.eu,+33 4 78 50 1056,Territoire National,EMP-013
+EMP-057,Jérôme Roussel,MSL Pneumologie,Affaires Médicales (MSL),j.roussel@pharmanova.eu,+33 4 78 50 1057,Territoire National,EMP-013
+EMP-058,Quentin Lambert,Administrateur GED Qualité Veeva,Systèmes d'Information GxP,q.lambert@pharmanova.eu,+33 4 78 50 1058,Lyon HQ,EMP-004
+EMP-059,Zoé Gauthier,Ingénieur Validation Informatique CSV,Systèmes d'Information GxP,z.gauthier@pharmanova.eu,+33 4 78 50 1059,Lyon HQ,EMP-004
+EMP-060,Alexandre Moreau,Responsable Intégrité des Données ALCOA+,Systèmes d'Information GxP,a.moreau@pharmanova.eu,+33 4 78 50 1060,Lyon HQ,EMP-004
+EMP-061,Delphine Gerard,Analyste Qualité Opérationnelle,Assurance Qualité,d.gerard@pharmanova.eu,+33 4 78 50 1061,Site Chalon,EMP-008
+EMP-062,Guillaume Rousseau,Analyste Qualité Opérationnelle,Assurance Qualité,g.rousseau@pharmanova.eu,+33 4 78 50 1062,Site Chalon,EMP-008
+EMP-063,Jérôme Garnier,Analyste Qualité Opérationnelle,Assurance Qualité,j.garnier@pharmanova.eu,+33 4 78 50 1063,Site Chalon,EMP-008
+EMP-064,Mathieu Garcia,Analyste Qualité Opérationnelle,Assurance Qualité,m.garcia@pharmanova.eu,+33 4 78 50 1064,Site Chalon,EMP-008
+EMP-065,Patricia Nicolas,Analyste Qualité Opérationnelle,Assurance Qualité,p.nicolas@pharmanova.eu,+33 4 78 50 1065,Site Chalon,EMP-008
+EMP-066,Sandrine Moreau,Analyste Qualité Opérationnelle,Assurance Qualité,s.moreau@pharmanova.eu,+33 4 78 50 1066,Site Chalon,EMP-008
+EMP-067,Xavier Gerard,Analyste Qualité Opérationnelle,Assurance Qualité,x.gerard@pharmanova.eu,+33 4 78 50 1067,Site Chalon,EMP-008
+EMP-068,Marc Rousseau,Analyste Qualité Opérationnelle,Assurance Qualité,m.rousseau@pharmanova.eu,+33 4 78 50 1068,Site Chalon,EMP-008
+EMP-069,Anne Garnier,Analyste Qualité Opérationnelle,Assurance Qualité,a.garnier@pharmanova.eu,+33 4 78 50 1069,Site Chalon,EMP-008
+EMP-070,Alexandre Garcia,Analyste Qualité Opérationnelle,Assurance Qualité,a.garcia@pharmanova.eu,+33 4 78 50 1070,Site Chalon,EMP-008
+EMP-071,Delphine Nicolas,Analyste Qualité Opérationnelle,Assurance Qualité,d.nicolas@pharmanova.eu,+33 4 78 50 1071,Site Chalon,EMP-008
+EMP-072,Guillaume Moreau,Analyste Qualité Opérationnelle,Assurance Qualité,g.moreau@pharmanova.eu,+33 4 78 50 1072,Site Chalon,EMP-008
+EMP-073,Jérôme Gerard,Analyste Qualité Opérationnelle,Assurance Qualité,j.gerard@pharmanova.eu,+33 4 78 50 1073,Site Chalon,EMP-008
+EMP-074,Mathieu Rousseau,Analyste Qualité Opérationnelle,Assurance Qualité,m.rousseau@pharmanova.eu,+33 4 78 50 1074,Site Chalon,EMP-008
+EMP-075,Patricia Garnier,Analyste Qualité Opérationnelle,Assurance Qualité,p.garnier@pharmanova.eu,+33 4 78 50 1075,Site Chalon,EMP-008
+EMP-076,Sandrine Garcia,Analyste Qualité Opérationnelle,Assurance Qualité,s.garcia@pharmanova.eu,+33 4 78 50 1076,Site Chalon,EMP-008
+EMP-077,Xavier Nicolas,Analyste Qualité Opérationnelle,Assurance Qualité,x.nicolas@pharmanova.eu,+33 4 78 50 1077,Site Chalon,EMP-008
+EMP-078,Marc Moreau,Analyste Qualité Opérationnelle,Assurance Qualité,m.moreau@pharmanova.eu,+33 4 78 50 1078,Site Chalon,EMP-008
+EMP-079,Anne Gerard,Analyste Qualité Opérationnelle,Assurance Qualité,a.gerard@pharmanova.eu,+33 4 78 50 1079,Site Chalon,EMP-008
+EMP-080,Alexandre Rousseau,Analyste Qualité Opérationnelle,Assurance Qualité,a.rousseau@pharmanova.eu,+33 4 78 50 1080,Site Chalon,EMP-008
+EMP-081,Delphine Garnier,Analyste Qualité Opérationnelle,Assurance Qualité,d.garnier@pharmanova.eu,+33 4 78 50 1081,Site Chalon,EMP-008
+EMP-082,Guillaume Garcia,Analyste Qualité Opérationnelle,Assurance Qualité,g.garcia@pharmanova.eu,+33 4 78 50 1082,Site Chalon,EMP-008
+EMP-083,Jérôme Nicolas,Analyste Qualité Opérationnelle,Assurance Qualité,j.nicolas@pharmanova.eu,+33 4 78 50 1083,Site Chalon,EMP-008
+EMP-084,Mathieu Moreau,Analyste Qualité Opérationnelle,Assurance Qualité,m.moreau@pharmanova.eu,+33 4 78 50 1084,Site Chalon,EMP-008
+EMP-085,Patricia Gerard,Analyste Qualité Opérationnelle,Assurance Qualité,p.gerard@pharmanova.eu,+33 4 78 50 1085,Site Chalon,EMP-008
+EMP-086,Sandrine Rousseau,Analyste Qualité Opérationnelle,Assurance Qualité,s.rousseau@pharmanova.eu,+33 4 78 50 1086,Site Chalon,EMP-008
+EMP-087,Xavier Garnier,Analyste Qualité Opérationnelle,Assurance Qualité,x.garnier@pharmanova.eu,+33 4 78 50 1087,Site Chalon,EMP-008
+EMP-088,Marc Garcia,Analyste Qualité Opérationnelle,Assurance Qualité,m.garcia@pharmanova.eu,+33 4 78 50 1088,Site Chalon,EMP-008
+EMP-089,Anne Nicolas,Analyste Qualité Opérationnelle,Assurance Qualité,a.nicolas@pharmanova.eu,+33 4 78 50 1089,Site Chalon,EMP-008
+EMP-090,Alexandre Moreau,Analyste Qualité Opérationnelle,Assurance Qualité,a.moreau@pharmanova.eu,+33 4 78 50 1090,Site Chalon,EMP-008
+EMP-091,Delphine Gerard,Analyste Qualité Opérationnelle,Assurance Qualité,d.gerard@pharmanova.eu,+33 4 78 50 1091,Site Chalon,EMP-008
+EMP-092,Guillaume Rousseau,Analyste Qualité Opérationnelle,Assurance Qualité,g.rousseau@pharmanova.eu,+33 4 78 50 1092,Site Chalon,EMP-008
+EMP-093,Jérôme Garnier,Analyste Qualité Opérationnelle,Assurance Qualité,j.garnier@pharmanova.eu,+33 4 78 50 1093,Site Chalon,EMP-008
+EMP-094,Mathieu Garcia,Analyste Qualité Opérationnelle,Assurance Qualité,m.garcia@pharmanova.eu,+33 4 78 50 1094,Site Chalon,EMP-008
+EMP-095,Patricia Nicolas,Analyste Qualité Opérationnelle,Assurance Qualité,p.nicolas@pharmanova.eu,+33 4 78 50 1095,Site Chalon,EMP-008
+EMP-096,Sandrine Moreau,Analyste Qualité Opérationnelle,Assurance Qualité,s.moreau@pharmanova.eu,+33 4 78 50 1096,Site Chalon,EMP-008
+EMP-097,Xavier Gerard,Analyste Qualité Opérationnelle,Assurance Qualité,x.gerard@pharmanova.eu,+33 4 78 50 1097,Site Chalon,EMP-008
+EMP-098,Marc Rousseau,Analyste Qualité Opérationnelle,Assurance Qualité,m.rousseau@pharmanova.eu,+33 4 78 50 1098,Site Chalon,EMP-008
+EMP-099,Anne Garnier,Analyste Qualité Opérationnelle,Assurance Qualité,a.garnier@pharmanova.eu,+33 4 78 50 1099,Site Chalon,EMP-008
+EMP-100,Alexandre Garcia,Analyste Qualité Opérationnelle,Assurance Qualité,a.garcia@pharmanova.eu,+33 4 78 50 1100,Site Chalon,EMP-008
+EMP-101,Delphine Nicolas,Analyste Qualité Opérationnelle,Assurance Qualité,d.nicolas@pharmanova.eu,+33 4 78 50 1101,Site Chalon,EMP-008
+EMP-102,Guillaume Moreau,Analyste Qualité Opérationnelle,Assurance Qualité,g.moreau@pharmanova.eu,+33 4 78 50 1102,Site Chalon,EMP-008
+EMP-103,Jérôme Gerard,Analyste Qualité Opérationnelle,Assurance Qualité,j.gerard@pharmanova.eu,+33 4 78 50 1103,Site Chalon,EMP-008
+EMP-104,Mathieu Rousseau,Analyste Qualité Opérationnelle,Assurance Qualité,m.rousseau@pharmanova.eu,+33 4 78 50 1104,Site Chalon,EMP-008
+EMP-105,Patricia Garnier,Analyste Qualité Opérationnelle,Assurance Qualité,p.garnier@pharmanova.eu,+33 4 78 50 1105,Site Chalon,EMP-008
+EMP-106,Sandrine Garcia,Analyste Qualité Opérationnelle,Assurance Qualité,s.garcia@pharmanova.eu,+33 4 78 50 1106,Site Chalon,EMP-008
+EMP-107,Xavier Nicolas,Analyste Qualité Opérationnelle,Assurance Qualité,x.nicolas@pharmanova.eu,+33 4 78 50 1107,Site Chalon,EMP-008
+EMP-108,Marc Moreau,Analyste Qualité Opérationnelle,Assurance Qualité,m.moreau@pharmanova.eu,+33 4 78 50 1108,Site Chalon,EMP-008
+EMP-109,Anne Gerard,Analyste Qualité Opérationnelle,Assurance Qualité,a.gerard@pharmanova.eu,+33 4 78 50 1109,Site Chalon,EMP-008
+EMP-110,Alexandre Rousseau,Analyste Qualité Opérationnelle,Assurance Qualité,a.rousseau@pharmanova.eu,+33 4 78 50 1110,Site Chalon,EMP-008
+EMP-111,Delphine Garnier,Analyste Qualité Opérationnelle,Assurance Qualité,d.garnier@pharmanova.eu,+33 4 78 50 1111,Site Chalon,EMP-008
+EMP-112,Guillaume Garcia,Analyste Qualité Opérationnelle,Assurance Qualité,g.garcia@pharmanova.eu,+33 4 78 50 1112,Site Chalon,EMP-008
+EMP-113,Jérôme Nicolas,Analyste Qualité Opérationnelle,Assurance Qualité,j.nicolas@pharmanova.eu,+33 4 78 50 1113,Site Chalon,EMP-008
+EMP-114,Mathieu Moreau,Analyste Qualité Opérationnelle,Assurance Qualité,m.moreau@pharmanova.eu,+33 4 78 50 1114,Site Chalon,EMP-008
+EMP-115,Patricia Gerard,Analyste Qualité Opérationnelle,Assurance Qualité,p.gerard@pharmanova.eu,+33 4 78 50 1115,Site Chalon,EMP-008
+EMP-116,Sandrine Rousseau,Analyste Qualité Opérationnelle,Assurance Qualité,s.rousseau@pharmanova.eu,+33 4 78 50 1116,Site Chalon,EMP-008
+EMP-117,Xavier Garnier,Analyste Qualité Opérationnelle,Assurance Qualité,x.garnier@pharmanova.eu,+33 4 78 50 1117,Site Chalon,EMP-008
+EMP-118,Marc Garcia,Analyste Qualité Opérationnelle,Assurance Qualité,m.garcia@pharmanova.eu,+33 4 78 50 1118,Site Chalon,EMP-008
+EMP-119,Anne Nicolas,Analyste Qualité Opérationnelle,Assurance Qualité,a.nicolas@pharmanova.eu,+33 4 78 50 1119,Site Chalon,EMP-008
+EMP-120,Alexandre Moreau,Analyste Qualité Opérationnelle,Assurance Qualité,a.moreau@pharmanova.eu,+33 4 78 50 1120,Site Chalon,EMP-008

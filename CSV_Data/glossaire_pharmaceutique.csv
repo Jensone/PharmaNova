@@ -1,0 +1,155 @@
+terme,definition
+ALCOA+,"Attributable, Legible, Contemporaneous, Original, Accurate + Complete, Consistent, Enduring, Available. Norme fondamentale d'intégrité des données GxP (EMA & FDA)."
+AMM,Autorisation de Mise sur le Marché octroyée par l'EMA ou les autorités nationales (ANSM) autorisant la commercialisation après validation du rapport bénéfice/risque.
+ANSM,Agence Nationale de Sécurité du Médicament et des produits de santé. Autorité nationale compétente française pour la régulation des médicaments et des dispositifs.
+API,Active Pharmaceutical Ingredient (Principe Actif / Substance Active). Molécule ou matière première exerçant l'action pharmacologique du médicament.
+APR / PQR,Annual Product Review / Product Quality Review. Revue périodique annuelle obligatoire de la qualité de chaque produit commercialisé (EudraLex Vol 4 Ch 1.10).
+ASMF / DMF,"Active Substance Master File / Drug Master File. Dossier confidentiel de la substance active décrivant sa chimie, sa synthèse et son contrôle qualité."
+ATC,"Classification Anatomique, Thérapeutique et Chimique de l'OMS organisant les substances actives selon leurs organes cibles et propriétés."
+Audit GxP,"Évaluation systématique et indépendante de la conformité d'un processus, d'un site ou d'un fournisseur aux Bonnes Pratiques pharmaceutiques."
+BLA,Biologics License Application. Demande d'autorisation de mise sur le marché d'un médicament biologique auprès de la FDA américaine.
+BPF / GMP,Bonnes Pratiques de Fabrication (Good Manufacturing Practice) régies dans l'UE par le Volume 4 d'EudraLex.
+BPD / GDP,Bonnes Pratiques de Distribution (Good Distribution Practice) garantissant le maintien de la qualité des médicaments au cours de la chaîne logistique.
+BPL / GLP,Bonnes Pratiques de Laboratoire encadrant les études non cliniques de sécurité environnementale et toxicologique des produits en développement.
+CAPA,Corrective and Preventive Action. Système d'actions correctives et préventives visant à éradiquer la cause racine d'un écart ou d'une déviation qualité.
+CC / Change Control,"Maîtrise des Changements. Procédure formalisée d'évaluation d'impact, de documentation et d'approbation avant toute modification technique ou documentaire GxP."
+CCB,"Change Control Board. Comité multidisciplinaire chargé de réviser, challenger et approuver les demandes de changements qualité."
+CCDS,Company Core Data Sheet. Document central interne du titulaire définissant la référence mondiale de sécurité et d'efficacité d'un médicament.
+CCSI,Company Core Safety Information. Section de tolérance et de sécurité du CCDS contenant les effets indésirables réputés associés au produit.
+CEP / CoS,Certificate of Suitability / Certificat de Conformité aux monographies de la Pharmacopée Européenne délivré par l'EDQM.
+CFR Title 21,"Code of Federal Regulations de la FDA américaine, notamment la partie 11 (signatures électroniques) et les parties 210/211 (cGMP)."
+CHMP,Committee for Medicinal Products for Human Use. Comité des médicaments à usage humain de l'EMA responsable des avis scientifiques d'AMM.
+CIOMS,Council for International Organizations of Medical Sciences. Organisation internationale établissant des standards pour la pharmacovigilance et les essais cliniques.
+CMDh,Coordination Group for Mutual Recognition and Decentralised Procedures - Human. Groupe de coordination européenne pour les procédures décentralisées et de reconnaissance mutuelle.
+CoA,Certificate of Analysis / Certificat d'Analyse. Document officiel certifiant la conformité analytique d'un lot de matière première ou de produit fini.
+Contre-échantillon,Échantillon de réserve d'un lot de produit fini ou matière première conservé en matériothèque pour investigations futures (EudraLex Annexe 19).
+CPP,Critical Process Parameter. Paramètre critique de procédé de fabrication dont la variabilité influe directement sur les attributs de qualité critiques (CQA).
+CPS,Comité de Protection des Personnes. Instance éthique indépendante française chargée d'évaluer la pertinence et la sécurité des protocoles de recherche biomédicale.
+CQA,"Critical Quality Attribute. Propriété physique, chimique, biologique ou microbiologique devant respecter des limites définies pour garantir la qualité requise."
+CRO,Contract Research Organization. Organisme de recherche sous contrat réalisant la gestion opérationnelle et le monitoring des essais cliniques.
+CSA,Computer Software Assurance. Approche moderne de la FDA axée sur les risques et les tests critiques pour la validation logicielle.
+CSV,Computerized System Validation. Processus formalisé de validation documentée garantissant la fiabilité et l'intégrité des systèmes informatiques GxP (GAMP 5).
+CTD,Common Technical Document. Format international harmonisé ICH pour la structuration des dossiers de demande d'AMM (Modules 1 à 5).
+CTM,Clinical Trial Material / Médicament Expérimental. Unité thérapeutique préparée et conditionnée spécifiquement pour une utilisation en essai clinique.
+DCP,Decentralised Procedure / Procédure Décentralisée d'AMM permettant l'enregistrement simultané d'un médicament dans plusieurs États membres de l'UE.
+DCI / INN,Dénomination Commune Internationale attribuée par l'OMS à une substance active pour en garantir l'identification mondiale universelle.
+Déviation,"Non-conformité ou écart non planifié par rapport à une procédure écrite (SOP), une spécification d'enregistrement ou une norme de fabrication GxP."
+DLP,Data Lock Point. Date d'arrêt de recueil des données de tolérance pour l'analyse consolidée d'un rapport de sécurité périodique (PSUR/PBRER).
+DLT,Dose Limiting Toxicity / Toxicité Dose-Limitante. Effet indésirable sévère survenant en essai de phase I déterminant la dose maximale tolérée (MTD).
+DPI,Dry Powder Inhaler. Dispositif médical d'inhalation administrant un principe actif micronisé sous forme de poudre sèche respirable.
+DQ,Design Qualification / Qualification de Conception. Preuve documentée que la conception technique proposée pour des équipements ou locaux est adaptée à l'usage.
+DSMB / IDMC,Data and Safety Monitoring Board. Comité indépendant d'experts surveillant la sécurité des patients et l'efficacité intermédiaire au cours d'un essai clinique pivot.
+DSUR,Development Safety Update Report. Rapport annuel de sécurité périodique pour les médicaments en cours de développement clinique (ICH E2F).
+E2B(R3),Standard international ICH pour la transmission informatique sécurisée des notifications individuelles d'effets indésirables (ICSR).
+EBR,Electronic Batch Record. Dossier de lot dématérialisé enregistrant en temps réel chaque étape de fabrication et de contrôle sous conformité 21 CFR Part 11.
+eCTD,Electronic Common Technical Document. Format numérique officiel obligatoire pour la soumission et le cycle de vie des dossiers d'AMM en Europe.
+EDQM,"Direction Européenne de la Qualité du Médicament & Soins de Santé (Conseil de l'Europe, Strasbourg), éditrice de la Pharmacopée Européenne."
+EMA,European Medicines Agency (Agence Européenne des Médicaments). Agence décentralisée de l'UE basée à Amsterdam coordonnant l'évaluation scientifique des médicaments.
+EPAR,European Public Assessment Report. Rapport d'évaluation public publié par l'EMA décrivant les motifs scientifiques d'octroi ou de refus d'une AMM.
+EPPI / WFI,Eau Pour Préparations Injectables (Water for Injection). Eau hautement purifiée apyrogène destinée à la fabrication des formes pharmaceutiques stériles.
+EudraLex,Recueil exhaustif de la législation et des règles régissant les médicaments dans l'Union Européenne (Volumes 1 à 10).
+EudraVigilance,Base de données européenne centralisée gérée par l'EMA pour la collecte et l'analyse de tous les cas d'effets indésirables suspectés (ICSR).
+FAT,Factory Acceptance Testing. Essais de réception en usine chez le constructeur d'un équipement industriel avant son expédition sur le site pharmaceutique.
+FDA,Food and Drug Administration. Agence fédérale américaine chargée de la protection de la santé publique et de la régulation des médicaments.
+FEFO,"First Expired, First Out. Règle logistique GDP imposant la distribution prioritaire des lots dont la date de péremption est la plus proche."
+FMD,Falsified Medicines Directive. Directive européenne 2011/62/UE imposant la sérialisation Datamatrix et les dispositifs anti-effraction sur les boîtes de médicaments.
+FMEA / AMDEC,"Failure Mode and Effects Analysis. Méthode d'analyse prévisionnelle des modes de défaillance, de leurs effets et de leur criticité (ICH Q9)."
+GAMP 5,Good Automated Manufacturing Practice version 5. Guide de référence de l'ISPE pour la validation basée sur les risques des systèmes informatisés GxP.
+GCP / BPC,Good Clinical Practice / Bonnes Pratiques Cliniques (ICH E6(R2)). Standard éthique et scientifique encadrant la conduite des essais cliniques chez l'homme.
+GVP,Good Pharmacovigilance Practices. Ensemble des modules directeurs européens définissant les exigences de qualité pour le système de pharmacovigilance.
+HACCP,Hazard Analysis Critical Control Point. Méthode d'évaluation et de maîtrise des risques axée sur les points critiques de contrôle des procédés.
+HDPE,Polyéthylène Haute Densité. Polymère plastique couramment utilisé pour le flaconnage primaire des formes pharmaceutiques orales solides.
+HEPA,"High-Efficiency Particulate Air. Filtre à très haute efficacité arrêtant au moins 99,97% des particules de 0,3 µm dans les zones à atmosphère contrôlée."
+HPLC / UPLC,High Performance Liquid Chromatography. Méthode analytique de chromatographie liquide à haute performance utilisée pour le dosage et le profil d'impuretés.
+HVAC,"Heating, Ventilation and Air Conditioning (Centrale de Traitement d'Air). Système de ventilation et traitement d'air maintenant les cascades de pression en ZAC."
+IB,Investigator's Brochure. Brochure pour l'investigateur compilant les données cliniques et non-cliniques sur un médicament en cours d'expérimentation.
+ICH,"International Council for Harmonisation. Instance mondiale harmonisant les exigences techniques et réglementaires d'enregistrement entre l'UE, les USA et le Japon."
+ICH E2A,"Directive ICH harmonisant la gestion des données de sécurité clinique, définitions et standards de signalement rapide des effets indésirables."
+ICH E2B(R3),Spécification technique ICH du format d'échange électronique des données relatives aux cas individuels de sécurité (ICSR).
+ICH E2C(R2),Ligne directrice ICH régissant le format et le contenu du rapport périodique d'évaluation bénéfice/risque (PBRER/PSUR).
+ICH E6(R2),Standard international de référence pour les Bonnes Pratiques Cliniques applicables à la conception et conduite des essais cliniques.
+ICH Q1A,Ligne directrice ICH fixant les conditions expérimentales des études de stabilité des principes actifs et des produits finis en zones climatiques.
+ICH Q2(R2),"Ligne directrice ICH détaillant les critères de validation des procédures analytiques (spécificité, linéarité, justesse, fidélité)."
+ICH Q3A / Q3B,"Directives ICH fixant les seuils de qualification, d'identification et de rapportage des impuretés de synthèse dans les substances actives et produits finis."
+ICH Q7,Guide de Bonnes Pratiques de Fabrication applicables aux substances actives pharmaceutiques (API) de synthèse chimique et biologique.
+ICH Q8(R2),Guide ICH sur le développement pharmaceutique introduisant la démarche Quality by Design (QbD) et l'espace de conception (Design Space).
+ICH Q9(R1),Ligne directrice ICH sur la gestion du risque qualité (Quality Risk Management - QRM) fournissant les principes et outils d'analyse des risques.
+ICH Q10,Modèle harmonisé de système qualité pharmaceutique (Pharmaceutical Quality System) intégrant les BPF tout au long du cycle de vie du produit.
+ICH Q11,Développement et fabrication des substances actives chimiques et biotechnologiques.
+ICH Q12,Ligne directrice ICH régissant les considérations techniques et opérationnelles pour la gestion du cycle de vie post-autorisation des médicaments.
+ICH Q14,Directive internationale sur le développement et la validation des procédures d'analyse chimique et biologique.
+ICSR,Individual Case Safety Report. Notification documentée relative à la survenue d'un effet indésirable suspecté chez un patient donné.
+IDMP,"Identification of Medicinal Products. Ensemble de normes ISO (11615, 11616, etc.) pour l'identification univoque mondiale des spécialités pharmaceutiques."
+IMP / ME,Investigational Medicinal Product / Médicament Expérimental utilisé dans un essai clinique comme principe actif testé ou placebo.
+IMPD,"Investigational Medicinal Product Dossier. Dossier de qualité, sécurité et efficacité soumis aux autorités pour autoriser un essai clinique."
+Imputabilité,Démarche méthodologique d'évaluation de la relation causale entre la prise d'un médicament et l'apparition d'un événement clinique indésirable.
+IND,Investigational New Drug Application. Demande d'autorisation soumise à la FDA américaine avant d'initier des essais cliniques chez l'homme.
+IPC,"In-Process Control. Contrôle en cours de fabrication effectué pendant la production pour vérifier la régularité du procédé (poids, dureté, friabilité)."
+IQ,Installation Qualification / Qualification d'Installation. Vérification documentée attestant que les équipements ont été livrés et installés conformément au cahier des charges.
+IRCA,International Register of Certificated Auditors. Organisme international de certification et d'enregistrement des auditeurs qualité professionnels.
+Ishikawa,"Diagramme de causes et effet (méthode des 5M : Matière, Matériel, Main-d'œuvre, Méthode, Milieu) utilisé pour l'analyse des causes profondes d'un écart."
+ISO 9001,Norme internationale établissant les critères d'un système de management de la qualité fondé sur l'approche processus et l'amélioration continue.
+ISO 13485,Norme internationale spécifiant les exigences de système de management de la qualité pour la conception et fabrication des dispositifs médicaux.
+ISO 14644,Norme internationale régissant la classification de la propreté de l'air particulaire et la maîtrise de la contamination dans les salles propres.
+LAL,Limulus Amebocyte Lysate. Test biochimique in vitro utilisant un extrait de sang de limule pour quantifier les endotoxines bactériennes.
+Libération de lot,Décision formelle et réglementaire prise par la Personne Qualifiée (QP/PR) attestant de la conformité du lot aux BPF et à l'AMM pour sa commercialisation.
+LIMS,"Laboratory Information Management System. Progiciel de gestion informatisée des échantillons, des flux d'analyses et des résultats du laboratoire QC."
+LOD,Loss on Drying / Perte à la Dessiccation. Détermination analytique de la quantité de solvants volatils et d'eau résiduelle dans un échantillon solide.
+LOQ / LOD,Limit of Quantitation / Limit of Detection. Limites de quantification et de détection caractérisant la sensibilité d'une procédure analytique.
+MAA,Marketing Authorisation Application. Dossier complet de demande d'AMM soumis aux autorités réglementaires pour obtenir l'approbation commerciale.
+Matériothèque,Local d'archivage sécurisé et climatisé destiné à la conservation des échantillons de référence et contre-échantillons de lots commercialisés.
+MedDRA,Medical Dictionary for Regulatory Activities. Terminologie médicale standardisée internationale utilisée pour coder les événements indésirables en PV.
+Media Fill,Simulation aseptique du procédé de fabrication au moyen d'un milieu de culture stérile afin de valider l'absence de contamination microbienne.
+MHRA,Medicines and Healthcare products Regulatory Agency. Autorité compétente de régulation des médicaments et dispositifs médicaux du Royaume-Uni.
+MRP,Mutual Recognition Procedure / Procédure de Reconnaissance Mutuelle d'AMM basée sur l'extension d'une autorisation nationale existante à d'autres pays de l'UE.
+MSDS / FDS,"Material Safety Data Sheet / Fiche de Données de Sécurité. Document synthétisant les dangers chimiques, mesures de premiers secours et stockage d'un produit."
+NDA,New Drug Application. Demande officielle soumise à la FDA américaine sollicitant l'approbation de commercialisation d'une nouvelle entité moléculaire.
+NIR,Near-Infrared Spectroscopy. Spectroscopie proche infrarouge utilisée en analyse rapide non destructive pour l'identification des matières premières.
+Notice patient / PIL,Patient Information Leaflet. Document d'information rédigé à l'attention du patient inséré dans chaque boîte de médicament.
+OOS,Out of Specification. Résultat d'essai analytique ne répondant pas aux critères d'acceptation préétablis dans le dossier d'enregistrement de l'AMM.
+OOT,Out of Trend. Résultat d'analyse conforme aux limites de spécification mais révélant une déviation statistique anormale par rapport à l'historique.
+OQ,Operational Qualification / Qualification Opérationnelle. Vérification documentée attestant qu'un équipement opère conformément à ses spécifications opérationnelles.
+PAES,Post-Authorisation Efficacy Study. Étude d'efficacité clinique imposée par les agences après l'octroi d'une AMM pour consolider les données d'efficacité.
+PASS,Post-Authorisation Safety Study. Étude de sécurité post-AMM menée pour identifier ou quantifier un risque potentiel ou évaluer l'efficacité des mesures du PGR.
+PBRER,Periodic Benefit-Risk Evaluation Report (Standard ICH E2C(R2)). Rapport périodique réévaluant le rapport bénéfice/risque global à intervalles définis.
+Ph. Eur.,"Pharmacopée Européenne. Recueil officiel des normes de qualité applicables aux substances actives, excipients et formes pharmaceutiques dans l'UE."
+Pharmacien Responsable,Pharmacien dirigeant (article L.5124-2 du CSP) assumant la responsabilité générale de la qualité et des opérations pharmaceutiques d'un établissement.
+PIP,Paediatric Investigation Plan. Programme d'études cliniques en pédiatrie obligatoire en vue d'assurer la sécurité et l'efficacité d'un médicament chez l'enfant.
+POC,Proof of Concept. Preuve de concept clinique (généralement phase IIa) apportant les premières données concluantes d'activité thérapeutique chez l'homme.
+PQ,Performance Qualification / Qualification de Performance. Preuve documentée qu'un équipement fonctionne de manière robuste et reproductible en conditions de charge réelles.
+PQC,"Product Quality Complaint. Réclamation qualité émise par un patient ou professionnel de santé relative à un défaut physique, galénique ou de conditionnement."
+PQS,Pharmaceutical Quality System. Système de management global de la qualité pharmaceutique couvrant l'ensemble du cycle de vie conformément à l'ICH Q10.
+PRAC,Pharmacovigilance Risk Assessment Committee. Comité de l'EMA dédié à l'évaluation des risques de pharmacovigilance et des signaux de sécurité.
+PRR,Proportional Reporting Ratio. Indicateur statistique de disproportion utilisé dans l'exploration de données de pharmacovigilance pour détecter des signaux.
+PSMF,"Pharmacovigilance System Master File. Dossier permanent décrivant l'organisation, les ressources, processus et systèmes informatiques de PV du laboratoire."
+PSUR,Periodic Safety Update Report. Rapport périodique actualisé de pharmacovigilance synthétisant les données de sécurité post-commercialisation.
+QA,Quality Assurance / Assurance Qualité. Ensemble des mesures organisées garantissant que les médicaments sont de la qualité requise pour l'usage prévu.
+QC,"Quality Control / Contrôle Qualité. Département responsable de l'échantillonnage, des analyses physico-chimiques/microbiologiques et des spécifications."
+QP,Qualified Person. Personne qualifiée certifiant la conformité de chaque lot aux BPF et à l'AMM avant sa libération sur le marché européen (Annexe 16 BPF).
+QPPV,Qualified Person for Pharmacovigilance. Personne qualifiée responsable de l'établissement et de la gestion continue du système de pharmacovigilance dans l'UE.
+QRM,"Quality Risk Management. Processus systématique d'évaluation, de maîtrise, de communication et de revue des risques pesant sur la qualité du médicament (ICH Q9)."
+Rappel de lot,Mesure sanitaire d'urgence consistant à retirer de la chaîne de distribution un lot suspect ou avéré de présenter un défaut de qualité ou un risque pour la santé.
+RCP / SmPC,Résumé des Caractéristiques du Produit (Summary of Product Characteristics). Document contractuel et scientifique approuvé lors de l'octroi de l'AMM.
+RMP / PGR,Risk Management Plan / Plan de Gestion des Risques. Document détaillant le profil de sécurité du médicament et les actions de pharmacovigilance/minimisation.
+ROR,Reporting Odds Ratio. Rapport de cotes de déclaration utilisé pour quantifier la disproportion statistique d'un effet indésirable dans une base de données de PV.
+RPN / IPR,"Risk Priority Number / Indice de Priorité du Risque. Produit de la gravité, de l'occurrence et de la détectabilité d'une défaillance dans une analyse FMEA."
+RTU,Ready-to-Use. Articles de conditionnement primaire (ex. flacons ou seringues stériles dépyrogénées) prêts à l'emploi sans lavage préalable.
+SAT,Site Acceptance Testing. Essais de réception sur le site industriel de destination confirmant le bon fonctionnement d'un équipement après livraison et raccordement.
+Signal PV,Information émanant d'une ou plusieurs sources suggérant une association causale nouvelle ou modifiée entre un médicament et un événement indésirable.
+Single-Use System (SUS),"Technologie à usage unique employée en bioproduction (poches, connecteurs, tubulures) éliminant les opérations de nettoyage et les risques de contamination."
+SOP,Standard Operating Procedure (Procédure Opératoire Standardisée). Instruction écrite et approuvée décrivant les étapes opératoires d'une tâche répétitive.
+Sunset Clause,Règle de caducité prévoyant qu'une AMM cesse d'être valide si le médicament n'est pas commercialisé dans les 3 ans suivant son octroi.
+SUSAR,"Suspected Unexpected Serious Adverse Reaction. Réaction indésirable grave, inattendue et suspectée survenue au cours d'un essai clinique, soumise à déclaration rapide."
+TOC,Total Organic Carbon. Mesure analytique de la concentration en carbone organique total pour qualifier la pureté de l'eau pour préparations injectables (EPPI).
+TSE / BSE,Transmissible Spongiform Encephalopathies / Encéphalopathies Spongiformes Transmissibles. Risque biologique à prévenir par la certification des matières premières animales.
+Type IA / IB / II,"Classification européenne des variations de l'AMM selon le règlement (CE) 1234/2008 (IA mineure immédiate, IB mineure par défaut, II majeure)."
+USP,United States Pharmacopeia. Recueil officiel des normes de qualité pharmaceutique applicable aux États-Unis.
+VMP,"Validation Master Plan / Plan Maître de Validation. Document cadre synthétisant la philosophie, l'organisation, le calendrier et les responsabilités de validation d'un site."
+VoE,Verification of Effectiveness. Évaluation documentée et planifiée dans le temps démontrant l'efficacité réelle d'une action corrective/préventive (CAPA).
+ZAC,"Zone d'Atmosphère Contrôlée. Salle propre classée de Grade A à D selon l'Annexe 1 des BPF européennes, maintenue sous filtration d'air HEPA."
+ADR / AE,Adverse Drug Reaction / Adverse Event. Tout événement médical fâcheux survenant chez un patient sans nécessairement qu'il y ait de lien causal avec le traitement.
+SmPC Section 4.8,Tableau officiel du Résumé des Caractéristiques du Produit détaillant les effets indésirables par classe de systèmes d'organes (SOC) et fréquence CIOMS.
+Bioéquivalence,Équivalence de biodisponibilité entre deux formes pharmaceutiques démontrée par un intervalle de confiance à 90% du ratio des AUC et Cmax compris entre 80.00% et 125.00%.
+Validation de Procédé,Preuve documentée apportant un haut degré d'assurance qu'un procédé de fabrication produira de façon reproductible un produit conforme aux spécifications préétablies.
+Vérification Continue du Procédé (CPV),Approche de validation du cycle de vie assurant une surveillance statistique continue de la capabilité des paramètres critiques de procédé (CPP).
+Dossier de Lot (BMR / EBR),Batch Manufacturing Record. Ensemble des enregistrements documentaires détaillant l'exécution de chaque étape de fabrication et contrôle d'un lot unitaire.

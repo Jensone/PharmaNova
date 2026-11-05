@@ -1,0 +1,9 @@
+training_id,title,target_audience,duration_hours,recurrence,mandatory_for,regulatory_framework
+MOD-TRN-001,Formation Fondamentale aux Bonnes Pratiques de Fabrication (BPF / GMP),Qualité,4 heures,Annuelle,Tous collaborateurs concernés,"EudraLex Volume 4, ICH Q10"
+MOD-TRN-002,Sensibilisation Générale à la Pharmacovigilance et Signalement des ICSR,Pharmacovigilance,2 heures,Annuelle obligatoire 100% personnel,Tous collaborateurs concernés,GVP Module I & VI
+MOD-TRN-003,Bonnes Pratiques de Distribution (GDP) et Maîtrise de la Chaîne du Froid,Supply Chain,3 heures,Bi-annuelle,Tous collaborateurs concernés,Directive 2013/C 343/01
+MOD-TRN-004,Intégrité des Données GxP et Principes ALCOA+ en Laboratoire et Production,Assurance Qualité,3 heures,Annuelle,Tous collaborateurs concernés,"EMA Data Integrity, 21 CFR Part 11"
+MOD-TRN-005,"Méthodologie de Résolution de Problèmes, Analyse Causes Racines et CAPA",Assurance Qualité,4 heures,Tous les 2 ans,Tous collaborateurs concernés,"ICH Q9, ICH Q10"
+MOD-TRN-006,"Comportement, Habillage et Asepsie en Zones d'Atmosphère Contrôlée (ZAC)",Production,4 heures + Habilitation pratique,Annuelle,Tous collaborateurs concernés,EudraLex Vol 4 Annexe 1
+MOD-TRN-007,"Soumissions eCTD, Cycle de Vie du Médicament et Variations Post-AMM",Affaires Réglementaires,3 heures,À l'embauche / Mise à jour,Tous collaborateurs concernés,Règlement (CE) 1234/2008
+MOD-TRN-008,"Traitement des Réclamations Clients, Défauts Qualité et Gestion des Rappels",Assurance Qualité,2 heures,Annuelle,Tous collaborateurs concernés,EudraLex Vol 4 Ch 8

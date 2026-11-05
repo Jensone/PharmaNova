@@ -1,0 +1,11 @@
+checklist_id,product_name,topic,regulatory_scope,items_checked,compliant_items,compliance_rate,status
+CHK-REG-001,Cardiolux,Conformité eCTD v4.0 et Validation Technique du Dossier d'AMM,Dossier eCTD,45,45,100%,Conforme
+CHK-REG-002,Glucorite,Audit de Lisibilité Notice Patient (User Consultation / Readability Testing),Notice Patient,30,29,96.7%,Conforme avec remarques mineures
+CHK-REG-003,Immunolin,Évaluation de Conformité de la Sunset Clause (Commercialisation UE),Maintien AMM,20,20,100%,Conforme
+CHK-REG-004,Oncovance,Vérification des Engagements Post-AMM et Études PASS / PAES,Post-AMM,25,25,100%,Conforme
+CHK-REG-005,Neurotix,Validation Réglementaire du Plan d'Investigation Pédiatrique (PIP),Pédiatrie,35,33,94.3%,Conforme sous réserve d'avenant
+CHK-REG-006,Respispray,Conformité du Conditionnement et Traçabilité Sérialisation FMD,Emballage & FMD,40,40,100%,Conforme
+CHK-REG-007,Vascopril,Harmonisation Européenne du Résumé des Caractéristiques du Produit (SmPC),Information Produit,50,49,98.0%,Conforme
+CHK-REG-008,Insulip,Conformité du Dispositif Médical Associé (Règlement MDR 2017/745),Dispositif Médical,35,35,100%,Conforme
+CHK-REG-009,Tremopan,Audit de Renouvellement Quinquennal et Analyse Bénéfice/Risque,Renouvellement,40,40,100%,Conforme
+CHK-REG-010,Cognifère,Conformité du Plan de Gestion des Risques (RMP Module V),Pharmacovigilance,30,30,100%,Conforme

@@ -1,0 +1,11 @@
+policy_id,title,category,scope,document_owner,version,effective_date,next_review_date,status
+POL-CORP-001,Manuel Qualité Pharmaceutique et Politique Générale GxP,Politique Qualité,Groupe PharmaNova (Tous sites),M. François Mercier (Pharmacien Responsable),8.0,2024-01-01,2026-01-01,Effectif
+POL-CORP-002,Charte d'Intégrité des Données et Principes ALCOA+ en Environnement GxP,Intégrité des Données,Tous départements opérationnels,Mme Nathalie Benhamou,4.0,2024-01-15,2025-01-15,Effectif
+POL-CORP-003,Code de Déontologie Pharmaceutique et Conformité Éthique,Conformité & Éthique,Tous collaborateurs PharmaNova,Dr. Jean-Marc Delacroix (CEO),5.0,2024-01-01,2027-01-01,Effectif
+POL-CORP-004,Politique Globale de Pharmacovigilance et Continuité du Signalement 24/7,Pharmacovigilance,Direction Médicale & PV,Dr. Marc-Antoine Leroy (QPPV),6.0,2024-02-01,2025-02-01,Effectif
+POL-CORP-005,Procédure d'Alerte Sanitaire Rapide et Retrait de Marché (Recall),Sécurité Sanitaire,Direction Générale & QP,M. François Mercier (Pharmacien Responsable),7.0,2024-01-10,2025-01-10,Effectif
+POL-CORP-006,Politique de Validation des Systèmes Informatisés (CSV) selon GAMP 5,Informatique GxP,Systèmes informatisés GxP,M. Thomas Vasseur,4.1,2024-03-01,2026-03-01,Effectif
+POL-CORP-007,Plan Directeur de Formation Continue et Habilitations GxP du Personnel,Ressources Humaines,Ensemble du personnel,Mme Nathalie Benhamou,5.0,2024-01-05,2025-01-05,Effectif
+POL-CORP-008,Politique de Maîtrise des Risques Qualité (QRM) selon ICH Q9(R1),Assurance Qualité,"Développement, Production & QC",M. François Mercier,3.0,2024-02-15,2026-02-15,Effectif
+POL-CORP-009,Plan de Continuité d'Activité et Gestion des Crises d'Approvisionnement,Supply Chain,Production & Distribution,M. Laurent Garnier,3.2,2024-01-20,2025-01-20,Effectif
+POL-CORP-010,Charte de Transparence et Relations avec les Professionnels de Santé,Affaires Médicales,Information Médicale & Ventes,Dr. Éléonore Vance (CMO),4.0,2024-01-15,2026-01-15,Effectif

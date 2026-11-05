@@ -1,0 +1,36 @@
+audit_id,audit_type,audited_entity,lead_auditor,audit_date,critical_findings,major_findings,minor_findings,conclusion
+AUD-INT-2024-001,Interne GxP (Auto-inspection),Ligne de Compression Formes Sèches (Chalon),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-02-05,0,0,1,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-002,Interne GxP (Auto-inspection),Laboratoire Contrôle Microbiologique (Chalon),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-03-05,0,0,2,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-003,Interne GxP (Auto-inspection),Système de Traitement d'Eau EPPI (Chalon),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-04-05,0,0,1,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-004,Interne GxP (Auto-inspection),Zone de Remplissage Aseptique (Marburg),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-05-05,0,1,2,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-005,Interne GxP (Auto-inspection),Validation des Systèmes Informatisés Veeva (Lyon),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-06-05,0,0,1,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-006,Interne GxP (Auto-inspection),Magasin Central de Stockage GDP (St-Quentin),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-07-05,0,0,2,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-007,Interne GxP (Auto-inspection),Gestion des Réclamations et Rappels (Lyon),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-08-05,0,0,1,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-008,Interne GxP (Auto-inspection),Contrôle Qualité Matières Premières (Chalon),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-09-05,0,1,2,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-009,Interne GxP (Auto-inspection),Procédure de Libération QP Annexe 16 (Lyon),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-10-05,0,0,1,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-010,Interne GxP (Auto-inspection),Gestion du Système CAPA et Déviations (Chalon),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-01-05,0,0,2,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-011,Interne GxP (Auto-inspection),Gestion du Pharmacovigilance Master File (Lyon),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-02-05,0,0,1,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-012,Interne GxP (Auto-inspection),Traçabilité Sérialisation et Datamatrix (St-Quentin),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-03-05,0,1,2,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-013,Interne GxP (Auto-inspection),Contrôle de Stabilité Long Terme ICH (Chalon),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-04-05,0,0,1,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-014,Interne GxP (Auto-inspection),Système de Chauffage Ventilation Climatisation HVAC (Chalon),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-05-05,0,0,2,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-015,Interne GxP (Auto-inspection),Qualification des Équipements de Conditionnement (Chalon),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-06-05,0,0,1,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-016,Interne GxP (Auto-inspection),Gestion des Échantillons de Réserve (Chalon),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-07-05,0,1,2,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-017,Interne GxP (Auto-inspection),Procédure de Décontamination Salle Blanche (Marburg),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-08-05,0,0,1,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-018,Interne GxP (Auto-inspection),Gestion des Déchets Dangereux et Environnement (Chalon),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-09-05,0,0,2,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-019,Interne GxP (Auto-inspection),Système d'Information Médicale et Validation (Lyon),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-10-05,0,0,1,Conformité satisfaisante / Plan d'actions requis
+AUD-INT-2024-020,Interne GxP (Auto-inspection),Sécurité des Données Informatiques GxP (Lyon),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-01-05,0,1,2,Conformité satisfaisante / Plan d'actions requis
+AUD-SUP-2024-001,Audit Fournisseur / Prestataire GxP,Lonza AG (Suisse),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-02-12,0,0,2,Fournisseur Homologué / Statut Qualifié
+AUD-SUP-2024-002,Audit Fournisseur / Prestataire GxP,Evonik Industries (Allemagne),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-03-12,0,0,2,Fournisseur Homologué / Statut Qualifié
+AUD-SUP-2024-003,Audit Fournisseur / Prestataire GxP,Gerresheimer Bünde GmbH (Allemagne),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-04-12,0,0,2,Fournisseur Homologué / Statut Qualifié
+AUD-SUP-2024-004,Audit Fournisseur / Prestataire GxP,Aptar Pharma (France),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-05-12,0,1,2,Fournisseur Homologué / Statut Qualifié
+AUD-SUP-2024-005,Audit Fournisseur / Prestataire GxP,Kuehne+Nagel Pharma Logistics (Belgique),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-06-12,0,0,2,Fournisseur Homologué / Statut Qualifié
+AUD-SUP-2024-006,Audit Fournisseur / Prestataire GxP,Eurofins BioPharma Product Testing (France),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-07-12,0,0,2,Fournisseur Homologué / Statut Qualifié
+AUD-SUP-2024-007,Audit Fournisseur / Prestataire GxP,Capsugel Lonza (France),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-08-12,0,0,2,Fournisseur Homologué / Statut Qualifié
+AUD-SUP-2024-008,Audit Fournisseur / Prestataire GxP,BASF Pharma Solutions (Allemagne),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-09-12,0,0,2,Fournisseur Homologué / Statut Qualifié
+AUD-SUP-2024-009,Audit Fournisseur / Prestataire GxP,West Pharmaceutical Services (France),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-01-12,0,0,2,Fournisseur Homologué / Statut Qualifié
+AUD-SUP-2024-010,Audit Fournisseur / Prestataire GxP,Thermo Fisher Scientific (Royaume-Uni),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-02-12,0,0,2,Fournisseur Homologué / Statut Qualifié
+AUD-SUP-2024-011,Audit Fournisseur / Prestataire GxP,SGS Life Sciences (Belgique),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-03-12,0,1,2,Fournisseur Homologué / Statut Qualifié
+AUD-SUP-2024-012,Audit Fournisseur / Prestataire GxP,Constantia Flexibles (Autriche),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-04-12,0,0,2,Fournisseur Homologué / Statut Qualifié
+AUD-SUP-2024-013,Audit Fournisseur / Prestataire GxP,Bolloré Logistics Pharma Hub (France),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-05-12,0,0,2,Fournisseur Homologué / Statut Qualifié
+AUD-SUP-2024-014,Audit Fournisseur / Prestataire GxP,Catalent Pharma Solutions (Italie),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-06-12,0,0,2,Fournisseur Homologué / Statut Qualifié
+AUD-SUP-2024-015,Audit Fournisseur / Prestataire GxP,Charles River Laboratories (France),M. Thomas Vasseur (Lead Auditor IRCA/GxP),2024-07-12,0,0,2,Fournisseur Homologué / Statut Qualifié

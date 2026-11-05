@@ -1,0 +1,41 @@
+sop_id,title,department,author,version,regulatory_ref,effective_date
+SOP-QA-001,Gestion du cycle de vie des Procédures Opératoires Standardisées (SOP),Assurance Qualité,Mme Nathalie Benhamou,4.0,EudraLex Vol 4 Ch 4,2024-01-15
+SOP-QA-002,Gestion des Déviations et Écarts de Procédé GxP,Assurance Qualité,Mme Nathalie Benhamou,5.1,"ICH Q10, EudraLex Vol 4 Part 1",2024-01-15
+SOP-QA-003,Système de Gestion des Actions Correctives et Préventives (CAPA),Assurance Qualité,Mme Nathalie Benhamou,4.2,ICH Q10 Section 3.2,2024-01-15
+SOP-QA-004,Maîtrise et Contrôle des Changements (Change Control),Assurance Qualité,Mme Nathalie Benhamou,6.0,EudraLex Vol 4 Ch 1,2024-01-15
+SOP-QA-005,Programme d'Auto-inspections et Audits Qualité Internes,Assurance Qualité,M. Thomas Vasseur,3.0,EudraLex Vol 4 Ch 9,2024-01-15
+SOP-QA-006,Qualification et Évaluation Continue des Fournisseurs GxP,Assurance Qualité,M. Thomas Vasseur,4.0,EudraLex Vol 4 Ch 7,2024-01-15
+SOP-QA-007,Gestion des Réclamations Qualité Produit et Défauts Techniques,Assurance Qualité,Mme Valérie Roche,5.0,EudraLex Vol 4 Ch 8,2024-01-15
+SOP-QA-008,Procédure de Certification et Libération des Lots par le QP,Assurance Qualité,Mme Valérie Roche,7.0,EudraLex Vol 4 Annexe 16,2024-01-15
+SOP-QA-009,Intégrité des Données et Bonnes Pratiques Documentaires (ALCOA+),Assurance Qualité,M. François Mercier,3.1,EMA Data Integrity Guidance,2024-01-15
+SOP-QA-010,Validation des Systèmes Informatisés selon l'approche GAMP 5,Assurance Qualité,Mme Nathalie Benhamou,4.0,"EudraLex Vol 4 Annexe 11, 21 CFR Part 11",2024-01-15
+SOP-QA-011,Gestion des Dérogations Temporaires Pré- et Post-Production,Assurance Qualité,Mme Nathalie Benhamou,2.1,EudraLex Vol 4 Ch 1,2024-01-15
+SOP-QA-012,Application de la Gestion des Risques Qualité (QRM),Assurance Qualité,M. François Mercier,3.0,ICH Q9(R1),2024-01-15
+SOP-QA-013,Revue Périodique de la Qualité des Produits (Product Quality Review),Assurance Qualité,Mme Valérie Roche,4.0,EudraLex Vol 4 Ch 1.10,2024-01-15
+SOP-QA-014,Gestion de la Photothèque et des Échantillons de Référence,Assurance Qualité,Dr. Philippe Gauthier,3.0,EudraLex Vol 4 Annexe 19,2024-01-15
+SOP-QA-015,Gestion des Alertes Sanitaires et Procédure de Retrait de Marché,Assurance Qualité,M. François Mercier,5.0,"EudraLex Vol 4 Ch 8, Directive 2001/83",2024-01-15
+SOP-PROD-016,"Nettoyage, Bio-décontamination et Désinfection des Salles Blanches",Production,M. Pierre-Yves Bernard,4.2,EudraLex Vol 4 Annexe 1 (2022),2024-01-15
+SOP-PROD-017,Règles d'Habillage et d'Hygiène du Personnel en Zones Propres,Production,M. Pierre-Yves Bernard,5.0,EudraLex Vol 4 Annexe 1,2024-01-15
+SOP-PROD-018,Conduite et Réglage des Presses à Comprimer Haute Cadence,Production,M. Pierre-Yves Bernard,3.0,EudraLex Vol 4 Ch 3 & 4,2024-01-15
+SOP-PROD-019,Procédé de Granulation Humide et Séchage en Lit d'Air Fluidisé,Production,M. Pierre-Yves Bernard,3.1,EudraLex Vol 4 Ch 5,2024-01-15
+SOP-PROD-020,Lignes de Conditionnement Sous Blister : Démarrage et Vide de Ligne,Production,M. Pierre-Yves Bernard,4.0,EudraLex Vol 4 Ch 5,2024-01-15
+SOP-PROD-021,Remplissage Aseptique en Isolateur Fermé (Site Marburg),Bioproduction,Dr. Klaus Reinhardt,4.1,EudraLex Vol 4 Annexe 1 Grade A,2024-01-15
+SOP-PROD-022,Conduite et Évaluation des Simulations Aseptiques (Media Fill),Bioproduction,Dr. Klaus Reinhardt,3.2,EudraLex Vol 4 Annexe 1,2024-01-15
+SOP-PROD-023,Surveillance et Maintenance de l'Air Comprimé et de l'Azote Pur,Production,M. Pierre-Yves Bernard,2.0,ISO 8573-1,2024-01-15
+SOP-PROD-024,Production et Distribution d'Eau Pour Préparations Injectables (EPPI),Production,M. Pierre-Yves Bernard,4.0,Ph. Eur. Monographie 0169,2024-01-15
+SOP-PROD-025,Stérilisation à la Vapeur d'Eau Saturée sous Pression (Autoclaves),Production,M. Pierre-Yves Bernard,3.1,"EN 285, Ph. Eur. 5.1.1",2024-01-15
+SOP-QC-026,Traitement des Résultats Analytiques Hors Spécifications (OOS/OOT),Contrôle Qualité,Dr. Philippe Gauthier,5.0,"FDA OOS Guidance, MHRA OOS",2024-01-15
+SOP-QC-027,"Maintenance, Étalonnage et Qualification des Systèmes HPLC/UPLC",Contrôle Qualité,Dr. Philippe Gauthier,4.0,"USP <1058>, Ph. Eur. 2.2.46",2024-01-15
+SOP-QC-028,Contrôles Microbiologiques des Produits Non Stériles et Stériles,Contrôle Qualité,Dr. Philippe Gauthier,3.3,"Ph. Eur. 2.6.1, 2.6.12, 2.6.13",2024-01-15
+SOP-QC-029,Gestion des Études de Stabilité Long Terme et Accélérées,Contrôle Qualité,Dr. Philippe Gauthier,4.0,ICH Q1A à Q1E,2024-01-15
+SOP-QC-030,Gestion et Qualification des Étalons et Substances de Référence,Contrôle Qualité,Dr. Philippe Gauthier,3.0,Ph. Eur. 5.12,2024-01-15
+SOP-QC-031,Validation et Transfert de Méthodes Analytiques,Contrôle Qualité,Dr. Philippe Gauthier,4.1,ICH Q2(R2),2024-01-15
+SOP-QC-032,Essai d'Uniformité de Masse et d'Uniformité de Teneur,Contrôle Qualité,Dr. Philippe Gauthier,2.2,"Ph. Eur. 2.9.5, 2.9.40",2024-01-15
+SOP-QC-033,Essais de Dissolution In Vitro des Formes Solides,Contrôle Qualité,Dr. Philippe Gauthier,3.0,Ph. Eur. 2.9.3,2024-01-15
+SOP-GDP-034,"Réception, Entreposage et Contrôle d'Entrée des Médicaments",Supply Chain,M. Laurent Garnier,4.0,Lignes directrices GDP 2013/C 343/01,2024-01-15
+SOP-GDP-035,Gestion des Excursions de Température et Dérogations Logistiques,Supply Chain,M. Laurent Garnier,5.0,GDP Section 9,2024-01-15
+SOP-GDP-036,Qualification des Moyens de Transport sous Température Dirigée,Supply Chain,M. Laurent Garnier,3.0,GDP Section 9.2,2024-01-15
+SOP-GDP-037,Vérification et Désactivation des Identifiants Uniques Sérialisation,Supply Chain,M. Laurent Garnier,3.1,Règlement Délégué (UE) 2016/161,2024-01-15
+SOP-PV-038,"Réception, Triage et Enregistrement des Cas de Tolérance (ICSR)",Pharmacovigilance,Dr. Marc-Antoine Leroy,4.0,GVP Module VI,2024-01-15
+SOP-PV-039,Transmission Électronique des ICSR vers la Passerelle EudraVigilance,Pharmacovigilance,Dr. Marc-Antoine Leroy,5.0,"ICH E2B(R3), GVP Module VI",2024-01-15
+SOP-PV-040,Gestion de la Permanence et Continuité de la Pharmacovigilance 24/7,Pharmacovigilance,Dr. Marc-Antoine Leroy,3.0,GVP Module I,2024-01-15

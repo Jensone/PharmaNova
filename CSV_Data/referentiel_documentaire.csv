@@ -1,0 +1,9 @@
+doc_id,title,category,version,owner,status
+MQ-001,Manuel Qualité Pharmaceutique et Politique GxP,Corporate,8.0,M. François Mercier,Effectif
+ORG-001,Organigramme et Gouvernance PharmaNova,Corporate,5.0,Dr. Jean-Marc Delacroix,Effectif
+CAT-001,Catalogue Maître des Produits (15 Spécialités),Corporate,6.0,Dr. Éléonore Vance,Effectif
+GLO-001,Glossaire Pharmaceutique Réglementaire GxP,Corporate,4.0,Dr. Claire Dupuis,Effectif
+DIR-001,Annuaire Collaborateurs et Nominations Clés,Corporate,7.0,Mme Christine Baudry,Effectif
+PSMF-001,Pharmacovigilance System Master File (PSMF Central),Pharmacovigilance,9.0,Dr. Marc-Antoine Leroy,Effectif
+REG-MST-001,Matrice Réglementaire des AMM et Variations Post-Autorisation,Affaires Réglementaires,5.2,Mme Christine Baudry,Effectif
+TRN-MST-001,Plan Directeur de Formation Continue et Habilitations GxP,Formation,4.0,Mme Nathalie Benhamou,Effectif
